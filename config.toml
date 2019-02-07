@@ -1,33 +1,22 @@
 baseURL = "https://nikibobi.github.io/"
-languageCode = "en-us"
-title = "Borislav Kosharov"
+languageCode = "en-US"
+title = "kosharov.ml"
 subtitle = "Thoughts on programming and math"
-theme = "terminal"
+theme = "cocoa-eh"
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
-
-[languages]
-  [languages.en]
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "kosharov.ml"
-      logoHomeLink = "/posts"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "blog"
-        name = "Blog"
-        url = "/posts"
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+  dateform = "Jan 2, 2006"
+  dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+  description = "Thoughts on programming and math"
+  logofile = "img/logo.jpeg"
+  faviconfile = ""
+  highlightjs = true
+  progressively = true
+  uselatex = true
+  github = "nikibobi"
+  email = "bosakmaw@gmail.com"
+  linkedin = "borislav-kosharov-455b59163"
+  twitter = "bosakmaw"
+  social_banner = "img/banner.png"
+  posts_navigation = true
+  small_banner_logo = true
