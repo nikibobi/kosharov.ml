@@ -1,3 +1,3 @@
-# [kosharov.ml](https://kosharov.ml)
+# [kosharov.dev](https://kosharov.dev)
 
 My personal blog about programming and math
